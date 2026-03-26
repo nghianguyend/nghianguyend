@@ -1,4 +1,4 @@
-## 💪 nghianguyend
+## nghianguyend
 **`Just a simple guy`**
 
 Hey there !
