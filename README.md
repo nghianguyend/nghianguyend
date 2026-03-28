@@ -1,7 +1,5 @@
-**`Just a simple guy`**
+**`Welcome to my repo`**
 
-Hey there !
-I'm currently a 2nd year student at Paris-Saclay University who likes programming, sports, music and video games.
 
 ### 💻 Languages 
 
